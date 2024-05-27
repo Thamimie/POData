@@ -6,3 +6,4 @@ Nom des Etudiants :
 -DESANNEES Jamesly
 -BLANC Jorry
 -NINGE Thamar
+-SIMY Lynne-Flore
